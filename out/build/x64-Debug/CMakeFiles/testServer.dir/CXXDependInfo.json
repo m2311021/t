@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/Aleks/Desktop/testServer/out/build/x64-Debug",
+	"dir-cur-src" : "C:/Users/Aleks/Desktop/testServer",
+	"dir-top-bld" : "C:/Users/Aleks/Desktop/testServer/out/build/x64-Debug",
+	"dir-top-src" : "C:/Users/Aleks/Desktop/testServer",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\Aleks\\Desktop\\testServer",
+		"C:\\Users\\Aleks\\vcpkg\\installed\\x64-windows\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Aleks/Desktop/testServer/out/build/x64-Debug/CMakeFiles/testServer.dir"
+}

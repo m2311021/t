@@ -1,0 +1,10 @@
+# ninja log v5
+12	554	7517595066264267	build.ninja	57c894a904f3fa7
+592	667	7513754442310646	C:/Users/Aleks/Desktop/testServer/out/build/x64-Debug/CMakeFiles/TestServer.dir/CXXModules.json	f663404db379ae78
+592	667	7513754442310646	CMakeFiles/TestServer.dir/main.cpp.obj.modmap	f663404db379ae78
+32	602	7511366107314381	CMakeFiles/TestServer.dir/testServer_user.cpp.obj.ddi	b48c1f122283a66e
+592	667	7513754442310646	CMakeFiles/TestServer.dir/CXX.dd	f663404db379ae78
+20	587	7513754441517354	CMakeFiles/TestServer.dir/main.cpp.obj.ddi	285f513b217739fc
+592	667	7513754442310646	CMakeFiles/TestServer.dir/testServer_user.cpp.obj.modmap	f663404db379ae78
+661	7700	7511365347327810	CMakeFiles/TestServer.dir/testServer_user.cpp.obj	4d273d1c194a7a48
+681	5358	7513754489079741	CMakeFiles/TestServer.dir/main.cpp.obj	21997542345ff185
